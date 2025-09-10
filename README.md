@@ -38,5 +38,3 @@ print(col) -- Color3 value
 local L, C, H = OKLCH.fromRGB(col)
 print(L, C, H)
 ```
-
----
