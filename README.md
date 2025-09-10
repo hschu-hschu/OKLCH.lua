@@ -17,7 +17,7 @@ This project is a **Roblox-compatible port** that focuses only on the conversion
 ---
 
 ## 📦 Installation
-1. Put the `OKLCH.lua` file inside `ReplicatedStorage/Library/` or anywhere you want.
+1. Put the [`OKLCH.luau`](https://github.com/hschu-hschu/OKLCH.lua/blob/main/OKLCH.luau) file inside `ReplicatedStorage/Library/` or anywhere you want.
 2. Require it from your scripts:
    ```lua
    local OKLCH = require(game.ReplicatedStorage.Library.OKLCH)
