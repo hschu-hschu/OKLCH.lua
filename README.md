@@ -1,5 +1,7 @@
 # CIELAB LCH for Roblox
 
+## 💥 Sorry, this wasn't OKLCH. I apologize for the confusion with the name. I'll update it to the real OKLCH sometime. 
+
 A Roblox Lua module that provides **OKLCH <-> sRGB (Color3)** color space conversion.  
 This is a pure math module without any UI — useful if you want to work with perceptually uniform colors in Roblox projects.
 
@@ -38,3 +40,4 @@ print(col) -- Color3 value
 local L, C, H = OKLCH.fromRGB(col)
 print(L, C, H)
 ```
+  
